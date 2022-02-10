@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-//teams 2?
+//    comment
 
     public void add2_team_a(View view) {
         teamAScore += 2;
